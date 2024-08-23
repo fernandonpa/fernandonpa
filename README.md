@@ -1,5 +1,4 @@
 
-<br>
 <div align="center">
 <img src="./images/break_line.gif" alt="break line">
 </div>
@@ -32,11 +31,13 @@
 
 ![Metrics](./sample.svg)
 
-<tr>
-     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandonpa&theme=github_dark"/>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandonpa&theme=github_dark" alt="Profile Details"/>
     </td>
-</tr>
+  </tr>
+</table>
 
 
 <br>
