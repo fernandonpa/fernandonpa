@@ -1,14 +1,17 @@
 
 <br>
 <div align="center">
-<img src="./images/GradientLine.gif" align="center" style="width: 100%"/>
+<img src="./images/break_line.gif" alt="break line">
 </div>
-<img src="./images/portfolio.png" align="center" style="width: 100% ;border-radius:3%" alt="Praneeth Anjana"  />
+<img src="./images/portfolio.png" align="center" style="width: 100% ; border-radius:3%" alt="Praneeth Anjana"  />
 <div align="center">
-<img src="./images/GradientLine.gif" align="center" style="width: 100%"/>
+  <img src="./images/break_line.gif" alt="break line">
 </div>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="./images/GradientLine.gif" align="center" style="width: 100%"/>
+</div>
 <br>
 
 # My new Stats
@@ -64,12 +67,14 @@
   <img src="./images/anonymous.gif" a alt="anonymous gift">
 </p>
 
-<h3><center>...Contact ME...</center> </h3> 
-<span style='font-size:40px'><center>&#128383;</center></span>
+<h3 align="center">...Contact ME...</h3>
+
+<p align="center" style="font-size: 100px;">&#128383;</p>
 
 
 
-<p><center>
+
+<div align="center" >
 
     
 
@@ -79,11 +84,10 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 ![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
 
-</center>
-</p>
+</div>
 <!-- <img src="./images/break_line.gif" alt="break line"> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer" width=100%/>
 </p>
 
 
