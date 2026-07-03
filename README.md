@@ -6,66 +6,38 @@
   <img src="./images/GradientLine.gif" width="100%" alt="Gradient Line">
 </div>
 
-# My New Stats
-
-<table border="0">
-  <tr>    
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fernandonpa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandonpa&theme=blue-green" alt="GitHub Streak">
-    </td>  
-  </tr>
-</table>
-
-
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandonpa&theme=github_dark" alt="Profile Details"/>
-    </td>
-  </tr>
-</table>
-
-# My Skill Set
-
 <div align="center">
 
-| Title | Icon |
-|-------|------|
-| Programming Languages | <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,c,cpp"/> |
-| Scripting Languages | <img src="https://skillicons.dev/icons?i=html,css"/> |
-| Frameworks & Libraries | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,vue,angular,next"/> |
-| Mobile Application Development | <img src="https://skillicons.dev/icons?i=flutter,firebase"/> |
-| Tools | <img src="https://skillicons.dev/icons?i=figma,postman,maven,gradle,idea,vscode,androidstudio"/> |
-| Databases | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/> |
-| Version Control | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/> |
-| Others | <img src="https://skillicons.dev/icons?i=jquery,regex,npm"/> |
+# **Praneeth Fernando - Machine Learning Engineer & CS Undergraduate**
+
+
 
 </div>
 
-<img src="./images/break_line.gif" alt="break line">
+---
 
-<p align="center">
-  <img src="./images/anonymous.gif" alt="anonymous gift">
-</p>
+## About Me
 
-<h3 align="center">...Contact ME...</h3>
+Final-year Computer Science and Engineering undergraduate at the University of Moratuwa, with hands-on experience building predictive modeling and time-series forecasting systems in financial analytics. Focused on applying rigorous data science methods to solve real-world business problems, from feature engineering to production-ready deployment.
 
-<p align="center" style="font-size: 100px;">&#128383;</p>
+---
+
+## Core Competencies
+
+- **Machine Learning & Deep Learning** — predictive modeling, model interpretability (SHAP), time-series forecasting
+- **Data Science** — feature engineering, statistical analysis, exploratory data analysis
+- **Python** — pandas, scikit-learn, XGBoost, PyTorch
+- **Data Engineering** — data pipelines, macroeconomic and financial data processing
+- **Technical Leadership** — leading cross-functional final-year project teams in applied deep learning
+
+---
+
+## Let's Connect
 
 <div align="center">
-  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
-![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanapraneeth7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneeth-anjana-720987274)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandonpa)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer" width="100%"/>
-</p>
