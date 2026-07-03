@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# **Praneeth Fernando - ML Engineer & CS Undergraduate**
+# **Praneeth Fernando - AI/ML Engineer & CSE Undergraduate**
 
 
 
